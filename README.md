@@ -76,6 +76,3 @@
       <p>< li> Phí hội viên: 100k/tháng< /li></p>
       <p>< li>Điện thoại liên hệ: 0123456787< /li></p>
       <p>< /ul></p>
-    </div>
-  </body>
-</html>
